@@ -12,9 +12,10 @@ Automated Flood Detection: Automatically identifies flooded areas from input ima
 
 Instance Segmentation: Provides a pixel-perfect mask of each flooded region, not just a bounding box.
 
-High Accuracy: The Mask R-CNN model is fine-tuned to achieve high accuracy in detecting various flood conditions.
+Accuracy: The Mask R-CNN model is fine-tuned to achieve accuracy in detecting various flood conditions.
 
 Scalable Solution: Can be deployed for large-scale, real-time flood monitoring.
 
 Custom Dataset: Trained on a specially curated dataset to handle diverse environmental conditions.
+
 
